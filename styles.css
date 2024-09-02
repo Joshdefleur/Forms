@@ -182,4 +182,10 @@ body {
     font-size: 14px;            /* This won't work in Chrome or Safari */
     -webkit-appearance: none;   /* This will make it work */
   }
+
+  /*textarea*/
+
+  .form-row .instructions {
+    margin-left: 120px;
+  }
 }
