@@ -127,6 +127,11 @@ body {
   margin-bottom: 30px;
 }
 
+/* checkbox */
+
+.form-row .checkbox-label {
+  margin-bottom: 0;
+}
 
 
 
@@ -187,5 +192,12 @@ body {
 
   .form-row .instructions {
     margin-left: 120px;
+  }
+
+  /* checkbox */
+
+  .form-row .checkbox-label {
+    margin-left: 120px;
+    width: auto;
   }
 }
