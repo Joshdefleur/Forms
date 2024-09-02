@@ -224,4 +224,10 @@ body {
     margin-left: 120px;
     width: auto;
   }
+
+  /* button */
+
+  .form-row button {
+    margin-left: 120px;
+  }
 }
